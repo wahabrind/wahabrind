@@ -25,8 +25,8 @@ I build backend systems for tax, compliance and payments work, and the LLM pipel
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,django,fastapi,react,nextjs,postgres,redis,docker,aws,githubactions,pytorch,supabase,firebase&theme=dark&perline=14">
-    <img alt="Python, TypeScript, Django, FastAPI, React, Next.js, Postgres, Redis, Docker, AWS, GitHub Actions, PyTorch, Supabase, Firebase" src="https://skillicons.dev/icons?i=py,ts,django,fastapi,react,nextjs,postgres,redis,docker,aws,githubactions,pytorch,supabase,firebase&theme=light&perline=14" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cdjango%2Cfastapi%2Creact%2Cnextjs%2Cpostgres%2Credis%2Cdocker%2Caws%2Cgithubactions%2Cpytorch%2Csupabase%2Cfirebase&theme=dark&perline=14">
+    <img alt="Python, TypeScript, Django, FastAPI, React, Next.js, Postgres, Redis, Docker, AWS, GitHub Actions, PyTorch, Supabase, Firebase" src="https://skillicons.dev/icons?i=py%2Cts%2Cdjango%2Cfastapi%2Creact%2Cnextjs%2Cpostgres%2Credis%2Cdocker%2Caws%2Cgithubactions%2Cpytorch%2Csupabase%2Cfirebase&theme=light&perline=14" width="100%">
   </picture>
 </p>
 
